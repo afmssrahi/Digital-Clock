@@ -99,3 +99,18 @@ body {
 .clock-container .period-and-second p {
     font-size: 30px;
 }
+
+.container .bottom {
+    height: 7px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: #1b8deb;
+}
+
+.container .bottom .progress-bar {
+    height: 100%;
+    width: 40%;
+    background-color: #3360db;
+    transition: all 1s linear;
+}
