@@ -1,4 +1,4 @@
-#Digital Clock#
+#Digital Clock
 
 Hi!, I am **A. F. M Shahriar Sharif Rahi**. I created this project named **Digital Clock** for my practice.
 This fully Dynamic Clock.
